@@ -1,0 +1,30 @@
+coverity-capture /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/data.json
+{"level":"info","logger":"Coverity Capture","msg":"Identified workflow: Polaris","time":"2024-11-27 11:55:37.0441 +07"}
+{"level":"info","logger":"Coverity Capture","msg":"command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/coverity capture --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir -o analyze.location=connect","time":"2024-11-27 11:55:37.0447 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"coverity 2024.9.1 covcli-2024.9-push-1","time":"2024-11-27 11:55:37.5476 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"envvar: COVERITY_CACHE_API_TOKEN_FILE=/var/folders/zv/pgw5r64d2h584p3nqsh1g6vm0000gn/T/polaris_coverity_cache614748876/.authKey","time":"2024-11-27 11:55:37.5477 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"envvar: COVERITY_CACHE_KEY=b6283876-38a2-4d21-acb4-1080e9b4bef8","time":"2024-11-27 11:55:37.5477 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"envvar: COVERITY_CACHE_URL=https://polaris.synopsys.com/api/cache","time":"2024-11-27 11:55:37.5478 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"envvar: COVERITY_CLI_CAPTURE_ZIP_ARCHIVE=/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir.zip","time":"2024-11-27 11:55:37.5478 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"envvar: COVERITY_CLI_POLARIS_CLIENT=true","time":"2024-11-27 11:55:37.5478 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Detected that stdout is not connected to a terminal.  Defaulting ticker mode to 'none'.","time":"2024-11-27 11:55:37.5479 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"If this is not correct, explicitly set the ticker mode to the desired value using the '--ticker-mode' option.","time":"2024-11-27 11:55:37.5479 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Using lightweight capture with thin client.","time":"2024-11-27 11:55:37.5479 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Caching is enabled.","time":"2024-11-27 11:55:37.5479 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Executing command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-manage-emit --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir create","time":"2024-11-27 11:55:37.5480 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Telemetry is enabled","time":"2024-11-27 11:55:37.8842 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Executing command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-manage-emit --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics","time":"2024-11-27 11:55:37.8861 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Executing action Delete compiler configurations for intermediate directory '/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir'","time":"2024-11-27 11:55:37.8949 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Executing action Configure build compiler: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-configure -c /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir/coverity-cli/build-compiler-configs/coverity_config.xml --compiler gcc --comptype clangcc --template","time":"2024-11-27 11:55:37.8950 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Platform info:","time":"2024-11-27 11:55:38.2152 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Sysname = Darwin","time":"2024-11-27 11:55:38.2153 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Release = 24.1.0","time":"2024-11-27 11:55:38.2153 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Machine = arm64","time":"2024-11-27 11:55:38.2153 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"","time":"2024-11-27 11:55:38.2153 +07"}
+{"external_parsed":true,"level":"error","logger":"Coverity Capture","msg":"This platform is not supported by Coverity.","time":"2024-11-27 11:55:38.2154 +07"}
+{"external_parsed":true,"level":"error","logger":"Coverity Capture","msg":"See documentation for the list of supported platforms.","time":"2024-11-27 11:55:38.2154 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"","time":"2024-11-27 11:55:38.2154 +07"}
+{"external_parsed":true,"level":"info","logger":"Coverity Capture","msg":"Capture phase took 668ms.","time":"2024-11-27 11:55:38.2157 +07"}
+{"external_parsed":true,"level":"error","logger":"Coverity Capture","msg":"This platform is not supported by Coverity.  See documentation for the list of supported platforms.","time":"2024-11-27 11:55:38.2160 +07"}
+{"level":"error","logger":"Coverity Capture","msg":"exit status 1","time":"2024-11-27 11:55:38.2167 +07"}
+{"level":"error","logger":"Coverity Capture","msg":"exit code: 1","time":"2024-11-27 11:55:38.2167 +07"}

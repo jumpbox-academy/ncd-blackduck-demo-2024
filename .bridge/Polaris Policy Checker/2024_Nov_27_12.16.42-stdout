@@ -1,0 +1,4 @@
+polaris-policy-checker /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Policy Checker/data.json
+{"level":"warning","logger":"Polaris Policy Checker","msg":"Skipping policy violations check for \"SAST\" assessment with id \"f938ae8b-6f03-441c-8c4c-de1d9155b5e5\", as the test is not completed","time":"2024-11-27 12:16:42.5915 +07"}
+{"level":"info","logger":"Polaris Policy Checker","msg":"Checking for policy violations for \"SCA\" assessment...","time":"2024-11-27 12:16:42.5920 +07"}
+{"level":"info","logger":"Polaris Policy Checker","msg":"no policies were violated to break the build","time":"2024-11-27 12:16:43.1107 +07"}

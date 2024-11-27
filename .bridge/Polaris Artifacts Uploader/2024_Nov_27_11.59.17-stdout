@@ -1,0 +1,12 @@
+polaris-artifacts-uploader /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Artifacts Uploader/data.json
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"uploading artifact for \"sast\" assessment with id \"824210ed-a1c7-4951-92c7-4c57cdf1c3a6\"","time":"2024-11-27 11:59:17.2035 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"uploading artifact for \"sca\" assessment with id \"1e6dec0c-b8d6-4799-bfa1-fa9bf1d8dd90\"","time":"2024-11-27 11:59:17.2039 +07"}
+{"level":"error","logger":"Polaris Artifacts Uploader","msg":"error while uploading the artifact \"/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir.zip\" for \"sast\" assessment: scan was found unsuccessful","time":"2024-11-27 11:59:17.2044 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading artifact \"/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/blackduck-artifacts.zip\" for \"sca\" assessment","time":"2024-11-27 11:59:18.2787 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"failed the test with id \"824210ed-a1c7-4951-92c7-4c57cdf1c3a6\" for assessment type \"sast\"","time":"2024-11-27 11:59:18.3713 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading Progress of \"sca\" artifact:  28%  32768/114487","time":"2024-11-27 11:59:18.6061 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading Progress of \"sca\" artifact:  57%  65536/114487","time":"2024-11-27 11:59:18.6062 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading Progress of \"sca\" artifact:  85%  98304/114487","time":"2024-11-27 11:59:18.6445 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading Progress of \"sca\" artifact: 100%  114487/114487","time":"2024-11-27 11:59:18.6447 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"successfully uploaded artifact \"/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/blackduck-artifacts.zip\"","time":"2024-11-27 11:59:19.3080 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"successfully resumed \"sca\" assessment with id \"1e6dec0c-b8d6-4799-bfa1-fa9bf1d8dd90\"","time":"2024-11-27 11:59:19.8210 +07"}

@@ -1,0 +1,3 @@
+polaris-initializer /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Initializer/data.json
+{"level":"info","logger":"Polaris Initializer","msg":"Successfully created test for \"SCA\" assessment. The short test ID is \"NJLWTUB\"","time":"2024-11-27 11:59:04.4895 +07"}
+{"level":"info","logger":"Polaris Initializer","msg":"Successfully created test for \"SAST\" assessment. The short test ID is \"T1Q5Z00\"","time":"2024-11-27 11:59:04.8720 +07"}

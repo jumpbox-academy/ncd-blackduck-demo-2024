@@ -1,0 +1,7 @@
+polaris-controller /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Controller/data.json
+{"level":"info","logger":"Polaris Controller","msg":"fetching recommended \"coverity\" tool info...","time":"2024-11-27 12:08:49.2620 +07"}
+{"level":"info","logger":"Polaris Controller","msg":"checking \"coverity\" tool installation inside bridge home directory: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1","time":"2024-11-27 12:08:49.6009 +07"}
+{"level":"info","logger":"Polaris Controller","msg":"\"coverity\" tool is already installed...","time":"2024-11-27 12:08:49.9470 +07"}
+{"level":"info","logger":"Polaris Controller","msg":"fetching recommended \"blackduck\" tool info...","time":"2024-11-27 12:08:49.9477 +07"}
+{"level":"info","logger":"Polaris Controller","msg":"checking \"blackduck\" tool installation inside bridge home directory: /Users/sikiryl/.synopsys/bridge/tools/synopsys-detect/9.9.0","time":"2024-11-27 12:08:50.2498 +07"}
+{"level":"info","logger":"Polaris Controller","msg":"\"blackduck\" tool is already installed...","time":"2024-11-27 12:08:51.8843 +07"}
