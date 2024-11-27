@@ -1,0 +1,26 @@
+{
+  "configId": {
+    "id": "ed93b6fa-6a38-48e4-b2f6-7067b5b89776"
+  },
+  "scanType": {
+    "type": 3,
+    "name": "Rapid Scan Static"
+  },
+  "sigmaConfig": {
+    "additionalArguments": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "bridgeConfig": {},
+  "buildConfig": {},
+  "scanMode": {
+    "name": "All Files"
+  },
+  "path": {
+    "source": {
+      "type": 8
+    }
+  }
+}

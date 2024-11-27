@@ -1,0 +1,5 @@
+downloader-adapter /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Downloader Adapter/data.json
+{"level":"info","logger":"Tool Downloader","msg":"Beginning download for blackduck (72.563MB)","time":"2024-11-27 11:54:57.2039 +07"}
+{"level":"info","logger":"Tool Downloader","msg":"Beginning download for coverity (254.95MB)","time":"2024-11-27 11:54:57.2455 +07"}
+{"level":"info","logger":"Tool Downloader","msg":"Download for blackduck completed.","time":"2024-11-27 11:55:12.1648 +07"}
+{"level":"info","logger":"Tool Downloader","msg":"Download for coverity completed.","time":"2024-11-27 11:55:29.7605 +07"}

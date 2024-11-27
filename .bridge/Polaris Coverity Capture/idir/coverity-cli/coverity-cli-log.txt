@@ -1,0 +1,12 @@
+[INFO] Using lightweight capture with thin client.
+[INFO] Caching is enabled.
+[INFO] Executing command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-manage-emit --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir create
+[INFO] Telemetry is enabled
+[INFO] Executing command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-manage-emit --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+[INFO] Executing action no-op: skipping compiler configuration
+[INFO] Executing action deleteResidualTUs /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir
+[INFO] Executing command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-manage-emit --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+[INFO] Executing action Invalidate capture results
+[INFO] Executing command: /Users/sikiryl/.synopsys/bridge/tools/cov-thin-client/2024.9.1/bin/cov-manage-emit --dir /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir list-capture-diagnostics
+[INFO] Capture phase took 38ms.
+[ERROR] No sources were recognized in the project directory.

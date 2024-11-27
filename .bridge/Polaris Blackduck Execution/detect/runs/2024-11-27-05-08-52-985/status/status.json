@@ -1,0 +1,101 @@
+{
+  "formatVersion": "0.5.0",
+  "detectVersion": "9.9.0",
+  "projectName": "owasp-nodejs-goat",
+  "projectVersion": "1.3.0",
+  "detectors": [
+    {
+      "folder": "/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat",
+      "detectorType": "NPM",
+      "detectorName": "NPM Package Lock",
+      "detectorAccuracy": "HIGH",
+      "extracted": true,
+      "status": "SUCCESS",
+      "statusCode": "PASSED",
+      "statusReason": "Passed",
+      "relevantFiles": [],
+      "explanations": [
+        "Found file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/package-lock.json",
+        "Found file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/package.json"
+      ],
+      "projectName": "owasp-nodejs-goat",
+      "projectVersion": "1.3.0",
+      "codeLocationCount": 1
+    },
+    {
+      "folder": "/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat",
+      "detectorType": "GIT",
+      "detectorName": "Git",
+      "detectorAccuracy": "HIGH",
+      "extracted": true,
+      "status": "SUCCESS",
+      "statusCode": "PASSED",
+      "statusReason": "Passed",
+      "relevantFiles": [],
+      "explanations": [
+        "Found file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.git",
+        "Found executable: /opt/homebrew/bin/git"
+      ],
+      "projectName": "jumpbox-academy/ncd-blackduck-demo-2024",
+      "projectVersion": "develop",
+      "codeLocationCount": 0
+    }
+  ],
+  "status": [
+    {
+      "key": "GIT",
+      "status": "SUCCESS"
+    },
+    {
+      "key": "NPM",
+      "status": "SUCCESS"
+    }
+  ],
+  "issues": [],
+  "overallStatus": [
+    {
+      "key": "SUCCESS",
+      "status": "Detect exited successfully."
+    }
+  ],
+  "results": [
+    {
+      "location": "/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/runs/2024-11-27-05-08-52-985/scan/components-with-locations.json",
+      "message": "Component Location Analysis File: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/runs/2024-11-27-05-08-52-985/scan/components-with-locations.json",
+      "sub_messages": []
+    }
+  ],
+  "unrecognizedPaths": {},
+  "codeLocations": [],
+  "propertyValues": {
+    "blackduck.offline.mode": "true",
+    "blackduck.offline.mode.force.bdio": "true",
+    "detect.bdio.file.name": "scan",
+    "detect.bdio.output.path": "/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/bdio/blackduck_artifact",
+    "detect.cleanup": "false",
+    "detect.component.location.analysis.enabled": "true",
+    "detect.excluded.directories": "/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge",
+    "detect.output.path": "/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect",
+    "detect.tools": "DETECTOR"
+  },
+  "operations": [
+    {
+      "startTimestamp": "2024-11-27 05:08:53.240",
+      "endTimestamp": "2024-11-27 05:08:53.701",
+      "descriptionKey": "Execute Detectors",
+      "status": "SUCCESS"
+    },
+    {
+      "startTimestamp": "2024-11-27 05:08:53.704",
+      "endTimestamp": "2024-11-27 05:08:54.482",
+      "descriptionKey": "SubProject Aggregate",
+      "status": "SUCCESS"
+    },
+    {
+      "startTimestamp": "2024-11-27 05:08:55.188",
+      "endTimestamp": "2024-11-27 05:09:01.627",
+      "descriptionKey": "Generating Component Location Analysis File for All Components",
+      "status": "SUCCESS"
+    }
+  ]
+}

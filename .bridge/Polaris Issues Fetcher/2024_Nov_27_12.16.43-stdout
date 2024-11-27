@@ -1,0 +1,4 @@
+polaris-issues-fetcher /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Issues Fetcher/data.json
+{"level":"error","logger":"Polaris Issues Fetcher","msg":"Will not fetch issues for \"SAST\", as the test is not completed","time":"2024-11-27 12:16:43.1519 +07"}
+{"level":"info","logger":"Polaris Issues Fetcher","msg":"Fetching issues for \"SCA\" assessment","time":"2024-11-27 12:16:43.1521 +07"}
+{"level":"info","logger":"Polaris Issues Fetcher","msg":"Successfully fetched issues for assessment type \"SCA\" with id \"4429991f-9d4c-485d-863b-8da9fdc6e1f2\"\n {\n \"critical\": 27,\n \"high\": 97,\n \"informational\": 0,\n \"low\": 1,\n \"medium\": 55\n}\n","time":"2024-11-27 12:16:43.5092 +07"}

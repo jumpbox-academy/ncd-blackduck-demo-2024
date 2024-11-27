@@ -1,0 +1,96 @@
+{
+  "configId": {
+    "id": "9e8b57d0-4e99-4ece-b769-47b75549e19d"
+  },
+  "scanType": {
+    "type": 1,
+    "name": "Polaris",
+    "supportsDiffing": true
+  },
+  "coverityConfig": {
+    "configFilePath": {
+      "source": {
+        "type": 8
+      }
+    },
+    "additionalAnalysisArguments": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "blackDuckConfig": {
+    "additionalArguments": {
+      "source": {
+        "type": 8
+      }
+    },
+    "configFilePath": {
+      "source": {
+        "type": 8
+      }
+    },
+    "searchDepth": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "bridgeConfig": {
+    "installationLocation": {
+      "source": {
+        "type": 8
+      }
+    },
+    "additionalArguments": {
+      "source": {
+        "type": 8
+      }
+    },
+    "configFilePath": {
+      "source": {
+        "type": 8
+      }
+    },
+    "scanTypes": [
+      0,
+      1
+    ]
+  },
+  "issueSource": {
+    "reference": {
+      "info": {
+        "name": "ncd-demo",
+        "id": "2a879aa0-70e3-4e52-85a2-72db47dd99fa",
+        "displayName": "ncd-demo",
+        "depth": 2
+      },
+      "parent": {
+        "info": {
+          "name": "ncd-demo-2024",
+          "id": "1e655fa7-25d7-48dd-af75-502f3cd5d683",
+          "displayName": "ncd-demo-2024",
+          "depth": 1,
+          "localId": "polaris.synopsys.com--ncd-demo-2024-1e655fa7-25d7-48dd-af75-502f3cd5d683"
+        }
+      }
+    }
+  },
+  "buildConfig": {
+    "buildCommand": {
+      "source": {
+        "type": 8
+      }
+    },
+    "cleanCommand": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "path": {
+    "source": {
+      "type": 8
+    }
+  }
+}

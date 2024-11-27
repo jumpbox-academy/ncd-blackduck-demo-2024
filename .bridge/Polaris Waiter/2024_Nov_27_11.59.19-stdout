@@ -1,0 +1,7 @@
+polaris-waiter /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Waiter/data.json
+{"level":"info","logger":"Polaris Waiter","msg":"Waiting for test with assessment type \"sca\" and id \"1e6dec0c-b8d6-4799-bfa1-fa9bf1d8dd90\"","time":"2024-11-27 11:59:19.8981 +07"}
+{"level":"info","logger":"Polaris Waiter","msg":"Waiting for test with assessment type \"sast\" and id \"824210ed-a1c7-4951-92c7-4c57cdf1c3a6\"","time":"2024-11-27 11:59:19.8984 +07"}
+{"level":"error","logger":"Polaris Waiter","msg":"error while waiting for test with assessment type \"sast\" and id \"824210ed-a1c7-4951-92c7-4c57cdf1c3a6\": the artifact uploaded was found unsuccessful","time":"2024-11-27 11:59:19.8992 +07"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"sca\" and id \"1e6dec0c-b8d6-4799-bfa1-fa9bf1d8dd90\" is \"Waiting for Capture\"","time":"2024-11-27 11:59:20.3078 +07"}
+{"level":"info","logger":"Polaris Waiter","msg":"Polling Test Manager: state of test with assessment type \"sca\" and id \"1e6dec0c-b8d6-4799-bfa1-fa9bf1d8dd90\" is \"Scanning \u0026 Publishing\"","time":"2024-11-27 11:59:30.6434 +07"}
+{"level":"info","logger":"Polaris Waiter","msg":"test with assessment type \"sca\" and id \"1e6dec0c-b8d6-4799-bfa1-fa9bf1d8dd90\" completed successfully","time":"2024-11-27 12:00:01.6456 +07"}

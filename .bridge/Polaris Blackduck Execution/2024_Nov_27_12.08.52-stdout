@@ -1,0 +1,108 @@
+blackduck-execution /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/data.json
+{"level":"info","logger":"Blackduck Execution","msg":"Running command java -jar /Users/sikiryl/.synopsys/bridge/tools/synopsys-detect/9.9.0/synopsys_detect-9.9.0.jar --detect.cleanup=false --detect.bdio.file.name=scan --detect.bdio.output.path=/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/bdio/blackduck_artifact --detect.output.path=/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect --detect.tools=DETECTOR --detect.component.location.analysis.enabled=true --blackduck.offline.mode=true --blackduck.offline.mode.force.bdio=true","time":"2024-11-27 12:08:52.2538 +07"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Blackduck Execution","msg":"--- Detect-Self-Updater:  Self-Update feature is disabled because of the following reasons:","time":"2024-11-27 12:08:52.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Blackduck Execution","msg":"--- Detect-Self-Updater:  Detect in offline mode is incompatible with the Self-Update feature.","time":"2024-11-27 12:08:52.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"warning","logger":"Blackduck Execution","msg":"--- Detect-Self-Updater:  Black Duck URL is required for the Self-Update feature.","time":"2024-11-27 12:08:52.0000 ICT"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"______     _            _","time":"2024-11-27 12:08:52.9129 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"|  _  \\   | |          | |","time":"2024-11-27 12:08:52.9129 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"| | | |___| |_ ___  ___| |_","time":"2024-11-27 12:08:52.9130 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"| | | / _ \\ __/ _ \\/ __| __|","time":"2024-11-27 12:08:52.9130 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"| |/ /  __/ ||  __/ (__| |_","time":"2024-11-27 12:08:52.9130 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"|___/ \\___|\\__\\___|\\___|\\__|","time":"2024-11-27 12:08:52.9130 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"","time":"2024-11-27 12:08:52.9130 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"","time":"2024-11-27 12:08:53.0182 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"Detect Version: 9.9.0","time":"2024-11-27 12:08:53.0183 +07"}
+{"external_parsed":true,"level":"info","logger":"Blackduck Execution","msg":"","time":"2024-11-27 12:08:53.0183 +07"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Current property values:","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- --property = value [notes]","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ------------------------------------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- blackduck.offline.mode = true [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- blackduck.offline.mode.force.bdio = true [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.bdio.file.name = scan [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.bdio.output.path = /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/bdio/blackduck_artifact [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.cleanup = false [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.component.location.analysis.enabled = true [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.excluded.directories = /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge [env] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.output.path = /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- detect.tools = DETECTOR [cmd] ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ------------------------------------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Detect build date: 2024-07-30","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Source directory: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Output directory: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Run directory: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/runs/2024-11-27-05-08-52-985","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Docker tool will not be run.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Bazel tool will not be run.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Will include the Detectors tool.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Searching for detectors.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Evaluating detectors. This may take a while.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Running executable \u003e/opt/homebrew/bin/git config --get remote.origin.url","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Process return code: 0","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Running executable \u003e/opt/homebrew/bin/git rev-parse --abbrev-ref HEAD","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Process return code: 0","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Running executable \u003e/opt/homebrew/bin/git rev-parse HEAD","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Process return code: 0","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ======================================================================================================","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Detector Report","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ======================================================================================================","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat (depth 0)","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t\tNPM Package Lock: SUCCESS","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t\t\tFound file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/package-lock.json","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t\t\tFound file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/package.json","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t\tGit: SUCCESS","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t\t\tFound file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.git","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \t\t\tFound executable: /opt/homebrew/bin/git","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- The following project names were found: ","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- \tNPM: owasp-nodejs-goat, 1.3.0","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Chose to use NPM at depth 0 for project name and version. Override with detect.project.detector.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Detectors actions finished.","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Project name: owasp-nodejs-goat","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Project version: 1.3.0","time":"2024-11-27 12:08:53.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:54.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Signature Scanner tool will not be run.","time":"2024-11-27 12:08:54.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:54.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Vulnerability Impact Analysis tool will not be run.","time":"2024-11-27 12:08:54.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:54.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- IaC Scanner tool will not be run.","time":"2024-11-27 12:08:54.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #######################################################################################","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #                                                                                     #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  Product Notice                                                                     #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  © 2023 Synopsys, Inc.                                                              #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  This Synopsys Component Locator and all associated documentation are proprietary   #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a   #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  written license agreement with Synopsys, Inc. All other use, reproduction,         #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  modification, or distribution of the Synopsys Component Locator or the associated  #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #  documentation is strictly prohibited.                                              #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #                                                                                     #","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- #######################################################################################","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Running Component Locator v1.1.12 on /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat","time":"2024-11-27 12:08:55.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Component Location Analysis file saved at: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/runs/2024-11-27-05-08-52-985/scan/components-with-locations.json","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ----------------------------------","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Creating status file: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/runs/2024-11-27-05-08-52-985/status/status.json","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Skipping cleanup, it is disabled.","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ======== Detect Result ========","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Component Location Analysis File: /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/detect/runs/2024-11-27-05-08-52-985/scan/components-with-locations.json","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ======== Detect Status ========","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- GIT: SUCCESS","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- NPM: SUCCESS","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Overall Status: SUCCESS - Detect exited successfully.","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ===============================","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- ","time":"2024-11-27 12:09:01.0000 ICT"}
+{"external_parsed":true,"extras":["main"],"level":"info","logger":"Blackduck Execution","msg":"--- Detect duration: 00h 00m 09s 159ms","time":"2024-11-27 12:09:01.0000 ICT"}

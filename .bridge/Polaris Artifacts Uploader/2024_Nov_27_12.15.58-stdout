@@ -1,0 +1,9 @@
+polaris-artifacts-uploader /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Artifacts Uploader/data.json
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"uploading artifact for \"sast\" assessment with id \"f938ae8b-6f03-441c-8c4c-de1d9155b5e5\"","time":"2024-11-27 12:15:58.4102 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"uploading artifact for \"sca\" assessment with id \"4429991f-9d4c-485d-863b-8da9fdc6e1f2\"","time":"2024-11-27 12:15:58.4105 +07"}
+{"level":"error","logger":"Polaris Artifacts Uploader","msg":"error while uploading the artifact \"/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Coverity Capture/idir.zip\" for \"sast\" assessment: scan was found unsuccessful","time":"2024-11-27 12:15:58.4111 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading artifact \"/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/blackduck-artifacts.zip\" for \"sca\" assessment","time":"2024-11-27 12:15:59.3216 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"failed the test with id \"f938ae8b-6f03-441c-8c4c-de1d9155b5e5\" for assessment type \"sast\"","time":"2024-11-27 12:15:59.5397 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"Uploading Progress of \"sca\" artifact: 100%  114485/114485","time":"2024-11-27 12:15:59.6010 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"successfully uploaded artifact \"/Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Blackduck Execution/blackduck-artifacts.zip\"","time":"2024-11-27 12:16:00.3944 +07"}
+{"level":"info","logger":"Polaris Artifacts Uploader","msg":"successfully resumed \"sca\" assessment with id \"4429991f-9d4c-485d-863b-8da9fdc6e1f2\"","time":"2024-11-27 12:16:00.9290 +07"}

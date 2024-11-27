@@ -1,0 +1,4 @@
+polaris-initializer /Users/sikiryl/Workspaces/event/2024-11-30-ncd/NodeGoat/.bridge/Polaris Initializer/data.json
+{"level":"info","logger":"Polaris Initializer","msg":"Branch doesn't exist. Will create new branch as 'polaris.onboarding' is set to 'true'","time":"2024-11-27 11:54:49.1441 +07"}
+{"level":"info","logger":"Polaris Initializer","msg":"Successfully created test for \"SCA\" assessment. The short test ID is \"TTZ00AB\"","time":"2024-11-27 11:54:51.2027 +07"}
+{"level":"info","logger":"Polaris Initializer","msg":"Successfully created test for \"SAST\" assessment. The short test ID is \"QGPXQ21\"","time":"2024-11-27 11:54:51.3870 +07"}
