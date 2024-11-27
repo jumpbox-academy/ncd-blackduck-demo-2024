@@ -22,20 +22,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Synopsys Action
-        uses: synopsys-sig/synopsys-action@v1.6.0
+        uses: synopsys-sig/synopsys-action@v1.13.0
         with:
-          #------------------------------------------COVERITY-----------------------------------------
-          coverity_url: ${{ secrets.COVERITY_URL }}
-          coverity_user: ${{ secrets.COVERITY_USER }}
-          coverity_passphrase: ${{ secrets.COVERITY_PASSPHRASE }}
-
-          #------------------------------------------BLACKDUCK----------------------------------------
-          blackduck_token: ${{ secrets.BLACKDUCK_API_TOKEN }}
-          blackduck_url: ${{ secrets.BLACKDUCK_URL }}
-
           #------------------------------------------POLARIS------------------------------------------
           polaris_server_url: ${{ secrets.POLARIS_SERVER_URL }}
           polaris_access_token: ${{ secrets.POLARIS_ACCESS_TOKEN }}
           polaris_assessment_types: "SCA,SAST"
+          
+          ### SCANNING: Optional fields
+          polaris_application_name: ${{ github.event.repository.name }}
+          polaris_project_name: ${{ github.event.repository.name }}
+          
+          ### PULL REQUEST COMMENTS: Uncomment below to enable
+          polaris_prComment_enabled: true 
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Required when PR comments is enabled
 
 
